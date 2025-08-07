@@ -36,13 +36,52 @@ if i >=2 and login==False:
 
 
 
-for i in range(10):
-    if i==4:
-        continue # skip to the next iteration
-    print(i)
+# for i in range(10):
+#     if i==4:
+#         continue # skip to the next iteration
+#     print(i)
+#
+# else:
+#     print("======================")
 
-else:
-    print("======================")
+
+
+"""
+    if(name='noha'){}
+
+"""
+
+
+
+
+
+name= 'noha'
+
+"""
+pass is a null operation — when it is executed, 
+nothing happens. It is useful as a placeholder
+ when a statement is required syntactically,
+  but no code needs to be executed, 
+for example:
+"""
+if name=='noha':
+    pass   # null operation
+
+print("00000")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
